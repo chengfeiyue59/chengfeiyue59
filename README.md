@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @chengfeiyue59.
+- 👀 I’m interested in Data Science student proficient in Python and pandas. 
+- 🌱 I’m currently learning Committed to analyzing data to derive valuable insights.
